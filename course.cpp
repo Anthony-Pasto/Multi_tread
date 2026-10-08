@@ -48,7 +48,7 @@ private:
     SharedTable* table;
 };
 
-int main() {
+int main() { 
     Screen ecran;
     Keyboard clavier;
     bool protectionActive = true;   // on commence sans protection; la touche c l'inverse
